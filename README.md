@@ -1,7 +1,7 @@
 # CalculadoraPH
 
-Aluno:	Jhones Correa 		- 201808337433
-Aluno:	Philippe Villegas 	- 201809166391
+- Aluno:	Jhones Correa 		- 201808337433
+- Aluno:	Philippe Villegas 	- 201809166391
 
 Alteração do projeto calculadora do react *Calculator*
 (https://github.com/ahfarmer/calculator)
