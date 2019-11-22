@@ -1,4 +1,4 @@
-# CalculadoraPH
+# C_Calculadora (https://github.com/Ph-12/C_Calculadora)
 
 - Aluno:	Jhones Correa 		- 201808337433
 - Aluno:	Philippe Villegas 	- 201809166391
